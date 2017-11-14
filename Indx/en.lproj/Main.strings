@@ -1,0 +1,110 @@
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "1xa-fk-RoK"; */
+"1xa-fk-RoK.title" = "Settings";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "4Cc-AV-reY"; */
+"4Cc-AV-reY.text" = "About";
+
+/* Class = "UILabel"; text = "DUMMY!\nSHOULD NEVER SHOW UP TO THE USER"; ObjectID = "5aU-zv-Ofo"; */
+"5aU-zv-Ofo.text" = "DUMMY!\nSHOULD NEVER SHOW UP TO THE USER";
+
+/* Class = "UISegmentedControl"; 7Kf-Cp-wL1.segmentTitles[0] = "English"; ObjectID = "7Kf-Cp-wL1"; */
+"7Kf-Cp-wL1.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; 7Kf-Cp-wL1.segmentTitles[1] = "عربي"; ObjectID = "7Kf-Cp-wL1"; */
+"7Kf-Cp-wL1.segmentTitles[1]" = "عربي";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "C8J-yq-kyb"; */
+"C8J-yq-kyb.normalTitle" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Tools"; ObjectID = "CJ9-1T-fYO"; */
+"CJ9-1T-fYO.title" = "Tools";
+
+/* Class = "UITabBarItem"; title = "Materials"; ObjectID = "CXP-1i-IbZ"; */
+"CXP-1i-IbZ.title" = "Materials";
+
+/* Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[0] = "Project"; ObjectID = "Ckz-Hl-mLr"; */
+"Ckz-Hl-mLr.segmentTitles[0]" = "Project";
+
+/* Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[1] = "Tool"; ObjectID = "Ckz-Hl-mLr"; */
+"Ckz-Hl-mLr.segmentTitles[1]" = "Tool";
+
+/* Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[2] = "Material"; ObjectID = "Ckz-Hl-mLr"; */
+"Ckz-Hl-mLr.segmentTitles[2]" = "Material";
+
+/* Class = "UILabel"; text = "You are here to make this a better place. We will contact you ASAP."; ObjectID = "Evg-Ml-6oU"; */
+"Evg-Ml-6oU.text" = "You are here to make this a better place. We will contact you ASAP.";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "Ovi-kE-Qpv"; */
+"Ovi-kE-Qpv.title" = "About";
+
+/* Class = "UITabBarItem"; title = "Tools"; ObjectID = "R8d-X7-NJu"; */
+"R8d-X7-NJu.title" = "Tools";
+
+/* Class = "UIViewController"; title = "Tools"; ObjectID = "UqX-Fh-fXx"; */
+"UqX-Fh-fXx.title" = "Tools";
+
+/* Class = "UITabBarItem"; title = "Projects"; ObjectID = "Z4x-JQ-65N"; */
+"Z4x-JQ-65N.title" = "Projects";
+
+/* Class = "UITextField"; placeholder = "Details"; ObjectID = "avT-ln-yAl"; */
+"avT-ln-yAl.placeholder" = "Details";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "ayi-Kx-kXm"; */
+"ayi-Kx-kXm.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Set Location"; ObjectID = "cDA-HA-FD7"; */
+"cDA-HA-FD7.normalTitle" = "Set Location";
+
+/* Class = "UILabel"; text = "Indx is the ultimate source for designers and makers to find tools and materials in Kuwait.\n\nThis app is sponsored by Ministry of State for Youth Affairs:"; ObjectID = "dcK-H5-3xJ"; */
+"dcK-H5-3xJ.text" = "Indx is the ultimate source for designers and makers to find tools and materials in Kuwait.\n\nThis app is sponsored by Ministry of State for Youth Affairs:";
+
+/* Class = "UISegmentedControl"; dfR-7h-koB.segmentTitles[0] = "Products"; ObjectID = "dfR-7h-koB"; */
+"dfR-7h-koB.segmentTitles[0]" = "Products";
+
+/* Class = "UISegmentedControl"; dfR-7h-koB.segmentTitles[1] = "Places"; ObjectID = "dfR-7h-koB"; */
+"dfR-7h-koB.segmentTitles[1]" = "Places";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "eNv-yw-YrJ"; */
+"eNv-yw-YrJ.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "Projects"; ObjectID = "fCe-XF-zaL"; */
+"fCe-XF-zaL.title" = "Projects";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "fLs-YC-0ml"; */
+"fLs-YC-0ml.title" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Materials"; ObjectID = "g0l-n5-1xM"; */
+"g0l-n5-1xM.title" = "Materials";
+
+/* Class = "UINavigationItem"; title = "Projects"; ObjectID = "hau-St-Anz"; */
+"hau-St-Anz.title" = "Projects";
+
+/* Class = "UIViewController"; title = "Materials"; ObjectID = "hgV-bM-biN"; */
+"hgV-bM-biN.title" = "Materials";
+
+/* Class = "UINavigationItem"; title = "Tools"; ObjectID = "kdE-Rg-9gg"; */
+"kdE-Rg-9gg.title" = "Tools";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "ktn-x2-1nI"; */
+"ktn-x2-1nI.text" = "None";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "oGn-55-h2Z"; */
+"oGn-55-h2Z.title" = "Settings";
+
+/* Class = "UILabel"; text = "ENTRY TYPE:"; ObjectID = "oxS-Bq-nNo"; */
+"oxS-Bq-nNo.text" = "ENTRY TYPE:";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "rSF-Cd-pyb"; */
+"rSF-Cd-pyb.text" = "Sign In";
+
+/* Class = "UILabel"; text = "LOCATION:"; ObjectID = "tGM-Q1-5Sp"; */
+"tGM-Q1-5Sp.text" = "LOCATION:";
+
+/* Class = "UIViewController"; title = "dummy"; ObjectID = "v0U-Gx-OfU"; */
+"v0U-Gx-OfU.title" = "dummy";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "vLb-d1-ykP"; */
+"vLb-d1-ykP.normalTitle" = "Submit";
+
+/* Class = "UINavigationItem"; title = "Materials"; ObjectID = "yoj-Ih-b1c"; */
+"yoj-Ih-b1c.title" = "Materials";

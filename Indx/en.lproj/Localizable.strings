@@ -1,0 +1,69 @@
+/* No comment provided by engineer. */
+"ALERT_BTN_CANCEL" = "Cancel";
+
+/* No comment provided by engineer. */
+"ALERT_BTN_LOGOUT" = "Sign Out";
+
+/* No comment provided by engineer. */
+"ALERT_BTN_OK" = "OK";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_LOGIN" = "You must sign in before you can make a submission";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_LOGOUT" = "Are you sure you want to sign out?";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_THANK_YOU" = "We will process your request as soon as possible!";
+
+"ALERT_MSG_PASSWORD_RESET" = "You will receive an email shortly";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_ERROR" = "Error";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_LOGIN" = "Sign In";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_LOGOUT" = "Sign Out";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_THANK_YOU" = "Thank You";
+
+/* No comment provided by engineer. */
+"BTN_SIGN_IN" = "Sign In";
+
+/* No comment provided by engineer. */
+"BTN_SIGN_OUT" = "Sign Out";
+
+"EMPTY_FEED_MSG" = "No Results";
+
+/* No comment provided by engineer. */
+"FORM_ERROR_DETAILS_EMPTY" = "Please fill in the details field";
+
+/* No comment provided by engineer. */
+"FORM_ERROR_EMPTY_NAME" = "Please fill in the name field";
+
+/* No comment provided by engineer. */
+"LOGIN_VALIDATION_EMAIL_FORMAT" = "Please enter a valid email";
+
+/* No comment provided by engineer. */
+"LOGIN_VALIDATION_PASSWORD_FORMAT" = "Please enter a valid password";
+
+"ONBOARDING_PROCEED_BTN" = "Let's Start Make";
+
+"ONBOARDING_MSG_1" = "Find the tool you need for your product or project";
+"ONBOARDING_MSG_2" = "Find the material you need for your product or project";
+"ONBOARDING_MSG_3" = "Find a service provider that can help you make your product or project";
+
+"PRODUCT_LOCATION_HEADER" = "Where to Find";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_BRANCHES" = "Branches";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_MATERIALS" = "Required Materials";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_TOOLS" = "Required Tools";
+

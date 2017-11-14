@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+    <file datatype="plaintext" original="Indx/Base.lproj/Main.storyboard" source-language="en" target-language="ar">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.2" build-num="34"></tool>
+        </header>
+        <body>
+            <trans-unit id="fLs-YC-0ml.title">
+                <source>Settings</source>
+                <target>الإعدادات</target>
+                <note>Class = "UITableViewController"; title = "Settings"; ObjectID = "fLs-YC-0ml";</note>
+            </trans-unit>
+            <trans-unit id="C8J-yq-kyb.normalTitle">
+                <source>Cancel</source>
+                <target>إلغاء</target>
+                <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "C8J-yq-kyb";</note>
+            </trans-unit>
+            <trans-unit id="Ovi-kE-Qpv.title">
+                <source>About</source>
+                <target>حول هذا التطبيق</target>
+                <note>Class = "UIViewController"; title = "About"; ObjectID = "Ovi-kE-Qpv";</note>
+            </trans-unit>
+            <trans-unit id="UqX-Fh-fXx.title">
+                <source>Tools</source>
+                <target>الأدوات</target>
+                <note>Class = "UIViewController"; title = "Tools"; ObjectID = "UqX-Fh-fXx";</note>
+            </trans-unit>
+            <trans-unit id="1xa-fk-RoK.title">
+                <source>Settings</source>
+                <target>الإعدادات</target>
+                <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "1xa-fk-RoK";</note>
+            </trans-unit>
+            <trans-unit id="7Kf-Cp-wL1.segmentTitles[0]">
+                <source>English</source>
+                <target>English</target>
+                <note>Class = "UISegmentedControl"; 7Kf-Cp-wL1.segmentTitles[0] = "English"; ObjectID = "7Kf-Cp-wL1";</note>
+            </trans-unit>
+            <trans-unit id="hgV-bM-biN.title">
+                <source>Materials</source>
+                <target>المواد</target>
+                <note>Class = "UIViewController"; title = "Materials"; ObjectID = "hgV-bM-biN";</note>
+            </trans-unit>
+            <trans-unit id="fCe-XF-zaL.title">
+                <source>Projects</source>
+                <target>المشاريع</target>
+                <note>Class = "UITabBarItem"; title = "Projects"; ObjectID = "fCe-XF-zaL";</note>
+            </trans-unit>
+            <trans-unit id="ktn-x2-1nI.text">
+                <source>None</source>
+                <target>لا يوجد</target>
+                <note>Class = "UILabel"; text = "None"; ObjectID = "ktn-x2-1nI";</note>
+            </trans-unit>
+            <trans-unit id="yoj-Ih-b1c.title">
+                <source>Materials</source>
+                <target>المواد</target>
+                <note>Class = "UINavigationItem"; title = "Materials"; ObjectID = "yoj-Ih-b1c";</note>
+            </trans-unit>
+            <trans-unit id="dcK-H5-3xJ.text">
+                <source>Indx is the ultimate source for designers and makers to find tools and materials in Kuwait.
+
+This app is sponsored by Ministry of State for Youth Affairs:</source>
+                <note>Class = "UILabel"; text = "Indx is the ultimate source for designers and makers to find tools and materials in Kuwait.\n\nThis app is sponsored by Ministry of State for Youth Affairs:"; ObjectID = "dcK-H5-3xJ";</note>
+            </trans-unit>
+            <trans-unit id="5aU-zv-Ofo.text">
+                <source>DUMMY!
+SHOULD NEVER SHOW UP TO THE USER</source>
+                <note>Class = "UILabel"; text = "DUMMY!\nSHOULD NEVER SHOW UP TO THE USER"; ObjectID = "5aU-zv-Ofo";</note>
+            </trans-unit>
+            <trans-unit id="hau-St-Anz.title">
+                <source>Projects</source>
+                <target>المشاريع</target>
+                <note>Class = "UINavigationItem"; title = "Projects"; ObjectID = "hau-St-Anz";</note>
+            </trans-unit>
+            <trans-unit id="Ckz-Hl-mLr.segmentTitles[2]">
+                <source>Material</source>
+                <target>مادة</target>
+                <note>Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[2] = "Material"; ObjectID = "Ckz-Hl-mLr";</note>
+            </trans-unit>
+            <trans-unit id="Z4x-JQ-65N.title">
+                <source>Projects</source>
+                <target>المشاريع</target>
+                <note>Class = "UITabBarItem"; title = "Projects"; ObjectID = "Z4x-JQ-65N";</note>
+            </trans-unit>
+            <trans-unit id="CJ9-1T-fYO.title">
+                <source>Tools</source>
+                <target>الأدوات</target>
+                <note>Class = "UITabBarItem"; title = "Tools"; ObjectID = "CJ9-1T-fYO";</note>
+            </trans-unit>
+            <trans-unit id="oxS-Bq-nNo.text">
+                <source>ENTRY TYPE:</source>
+                <target>نوع الطلب:</target>
+                <note>Class = "UILabel"; text = "ENTRY TYPE:"; ObjectID = "oxS-Bq-nNo";</note>
+            </trans-unit>
+            <trans-unit id="vLb-d1-ykP.normalTitle">
+                <source>Submit</source>
+                <target>إرسال</target>
+                <note>Class = "UIButton"; normalTitle = "Submit"; ObjectID = "vLb-d1-ykP";</note>
+            </trans-unit>
+            <trans-unit id="R8d-X7-NJu.title">
+                <source>Tools</source>
+                <target>الأدوات</target>
+                <note>Class = "UITabBarItem"; title = "Tools"; ObjectID = "R8d-X7-NJu";</note>
+            </trans-unit>
+            <trans-unit id="eNv-yw-YrJ.placeholder">
+                <source>Name</source>
+                <target>الاسم</target>
+                <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "eNv-yw-YrJ";</note>
+            </trans-unit>
+            <trans-unit id="cDA-HA-FD7.normalTitle">
+                <source>Set Location</source>
+                <target>تحديد المكان</target>
+                <note>Class = "UIButton"; normalTitle = "Set Location"; ObjectID = "cDA-HA-FD7";</note>
+            </trans-unit>
+            <trans-unit id="Evg-Ml-6oU.text">
+                <source>You are here to make this a better place. We will contact you ASAP.</source>
+                <target>أنت هنا لجعل هذا المكان أفضل. سنتواصل معك بأسرع وقت ممكن.</target>
+                <note>Class = "UILabel"; text = "You are here to make this a better place. We will contact you ASAP."; ObjectID = "Evg-Ml-6oU";</note>
+            </trans-unit>
+            <trans-unit id="g0l-n5-1xM.title">
+                <source>Materials</source>
+                <target>المواد</target>
+                <note>Class = "UITabBarItem"; title = "Materials"; ObjectID = "g0l-n5-1xM";</note>
+            </trans-unit>
+            <trans-unit id="avT-ln-yAl.placeholder">
+                <source>Details</source>
+                <target>التفاصيل</target>
+                <note>Class = "UITextField"; placeholder = "Details"; ObjectID = "avT-ln-yAl";</note>
+            </trans-unit>
+            <trans-unit id="ayi-Kx-kXm.text">
+                <source>Language</source>
+                <target>اللغة</target>
+                <note>Class = "UILabel"; text = "Language"; ObjectID = "ayi-Kx-kXm";</note>
+            </trans-unit>
+            <trans-unit id="Ckz-Hl-mLr.segmentTitles[1]">
+                <source>Tool</source>
+                <target>أداة</target>
+                <note>Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[1] = "Tool"; ObjectID = "Ckz-Hl-mLr";</note>
+            </trans-unit>
+            <trans-unit id="tGM-Q1-5Sp.text">
+                <source>LOCATION:</source>
+                <target>المكان:</target>
+                <note>Class = "UILabel"; text = "LOCATION:"; ObjectID = "tGM-Q1-5Sp";</note>
+            </trans-unit>
+            <trans-unit id="7Kf-Cp-wL1.segmentTitles[1]">
+                <source>عربي</source>
+                <target>عربي</target>
+                <note>Class = "UISegmentedControl"; 7Kf-Cp-wL1.segmentTitles[1] = "عربي"; ObjectID = "7Kf-Cp-wL1";</note>
+            </trans-unit>
+            <trans-unit id="4Cc-AV-reY.text">
+                <source>About</source>
+                <target>حول هذا التطبيق</target>
+                <note>Class = "UILabel"; text = "About"; ObjectID = "4Cc-AV-reY";</note>
+            </trans-unit>
+            <trans-unit id="CXP-1i-IbZ.title">
+                <source>Materials</source>
+                <target>المواد</target>
+                <note>Class = "UITabBarItem"; title = "Materials"; ObjectID = "CXP-1i-IbZ";</note>
+            </trans-unit>
+            <trans-unit id="kdE-Rg-9gg.title">
+                <source>Tools</source>
+                <target>الأدوات</target>
+                <note>Class = "UINavigationItem"; title = "Tools"; ObjectID = "kdE-Rg-9gg";</note>
+            </trans-unit>
+            <trans-unit id="dfR-7h-koB.segmentTitles[0]">
+                <source>Products</source>
+                <target>المنتجات</target>
+                <note>Class = "UISegmentedControl"; dfR-7h-koB.segmentTitles[0] = "Products"; ObjectID = "dfR-7h-koB";</note>
+            </trans-unit>
+            <trans-unit id="oGn-55-h2Z.title">
+                <source>Settings</source>
+                <target>الإعدادات</target>
+                <note>Class = "UITabBarItem"; title = "Settings"; ObjectID = "oGn-55-h2Z";</note>
+            </trans-unit>
+            <trans-unit id="Ckz-Hl-mLr.segmentTitles[0]">
+                <source>Project</source>
+                <target>مشروع</target>
+                <note>Class = "UISegmentedControl"; Ckz-Hl-mLr.segmentTitles[0] = "Project"; ObjectID = "Ckz-Hl-mLr";</note>
+            </trans-unit>
+            <trans-unit id="v0U-Gx-OfU.title">
+                <source>dummy</source>
+                <target>dummy</target>
+                <note>Class = "UIViewController"; title = "dummy"; ObjectID = "v0U-Gx-OfU";</note>
+            </trans-unit>
+            <trans-unit id="rSF-Cd-pyb.text">
+                <source>Sign In</source>
+                <target>تسجيل دخول</target>
+                <note>Class = "UILabel"; text = "Sign In"; ObjectID = "rSF-Cd-pyb";</note>
+            </trans-unit>
+            <trans-unit id="dfR-7h-koB.segmentTitles[1]">
+                <source>Places</source>
+                <target>الأماكن</target>
+                <note>Class = "UISegmentedControl"; dfR-7h-koB.segmentTitles[1] = "Places"; ObjectID = "dfR-7h-koB";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Indx/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ar">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.2" build-num="34"></tool>
+        </header>
+        <body></body>
+    </file>
+    <file datatype="plaintext" original="Indx/Base.lproj/Gallery.storyboard" source-language="en" target-language="ar">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.2" build-num="34"></tool>
+        </header>
+        <body>
+            <trans-unit id="FjN-CU-xjB.normalTitle">
+                <source>Sign in</source>
+                <target>تسجيل دخول</target>
+                <note>Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "FjN-CU-xjB";</note>
+            </trans-unit>
+            <trans-unit id="rdA-22-kay.text">
+                <source>Label</source>
+                <target>Label</target>
+                <note>Class = "UILabel"; text = "Label"; ObjectID = "rdA-22-kay";</note>
+            </trans-unit>
+            <trans-unit id="Ilt-T0-QKF.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "Ilt-T0-QKF";</note>
+            </trans-unit>
+            <trans-unit id="ER0-tx-H71.normalTitle">
+                <source>Forgot password?</source>
+                <target>نسيت كلمة المرور؟</target>
+                <note>Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "ER0-tx-H71";</note>
+            </trans-unit>
+            <trans-unit id="HFB-TX-3TE.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "HFB-TX-3TE";</note>
+            </trans-unit>
+            <trans-unit id="cng-VV-n1A.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "cng-VV-n1A";</note>
+            </trans-unit>
+            <trans-unit id="yYr-Xd-1dn.text">
+                <source>Where to Find</source>
+                <target>Where to Find</target>
+                <note>Class = "UILabel"; text = "Where to Find"; ObjectID = "yYr-Xd-1dn";</note>
+            </trans-unit>
+            <trans-unit id="LQa-tP-kgU.text">
+                <source>Where to Find</source>
+                <target>Where to Find</target>
+                <note>Class = "UILabel"; text = "Where to Find"; ObjectID = "LQa-tP-kgU";</note>
+            </trans-unit>
+            <trans-unit id="Gg3-Kg-2Gg.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "Gg3-Kg-2Gg";</note>
+            </trans-unit>
+            <trans-unit id="BEz-ZS-Fq9.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "BEz-ZS-Fq9";</note>
+            </trans-unit>
+            <trans-unit id="LfE-bi-wZ4.placeholder">
+                <source>Email</source>
+                <target>البريد الإلكتروني</target>
+                <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "LfE-bi-wZ4";</note>
+            </trans-unit>
+            <trans-unit id="sXM-BY-cZy.placeholder">
+                <source>Password</source>
+                <target>كلمه السر</target>
+                <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "sXM-BY-cZy";</note>
+            </trans-unit>
+            <trans-unit id="PsK-FI-OSq.normalTitle">
+                <source>Cancel</source>
+                <target>إلغاء</target>
+                <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "PsK-FI-OSq";</note>
+            </trans-unit>
+            <trans-unit id="sye-WM-zOP.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "sye-WM-zOP";</note>
+            </trans-unit>
+            <trans-unit id="1Ai-yu-XMH.text">
+                <source>Wood</source>
+                <target>Wood</target>
+                <note>Class = "UILabel"; text = "Wood"; ObjectID = "1Ai-yu-XMH";</note>
+            </trans-unit>
+            <trans-unit id="ZYe-8Q-D8d.text">
+                <source>Label</source>
+                <target>Label</target>
+                <note>Class = "UILabel"; text = "Label"; ObjectID = "ZYe-8Q-D8d";</note>
+            </trans-unit>
+            <trans-unit id="BBm-uC-8b3.text">
+                <source>Required Materials</source>
+                <target>Required Materials</target>
+                <note>Class = "UILabel"; text = "Required Materials"; ObjectID = "BBm-uC-8b3";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Indx/Info.plist" source-language="en" target-language="ar">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.2" build-num="34"></tool>
+        </header>
+        <body>
+            <trans-unit id="CFBundleName">
+                <source>$(PRODUCT_NAME)</source>
+            </trans-unit>
+            <trans-unit id="CFBundleShortVersionString">
+                <source>1.0</source>
+            </trans-unit>
+        </body>
+    </file>
+    <file datatype="plaintext" original="Indx/en.lproj/Localizable.strings" source-language="en" target-language="ar">
+        <header>
+            <tool tool-id="com.peerassembly.linguan" tool-name="Linguan" tool-version="1.4.2" build-num="34"></tool>
+        </header>
+        <body>
+            <trans-unit id="LOGIN_VALIDATION_EMAIL_FORMAT">
+                <source>LOGIN_VALIDATION_EMAIL_FORMAT</source>
+                <target>يرجى إدخال بريد إلكتروني صحيح</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_TITLE_LOGIN">
+                <source>ALERT_TITLE_LOGIN</source>
+                <target>تسجيل دخول</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="FORM_ERROR_DETAILS_EMPTY">
+                <source>FORM_ERROR_DETAILS_EMPTY</source>
+                <target>يرجى تعبئة في حقل التفاصيل</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="BTN_SIGN_OUT">
+                <source>BTN_SIGN_OUT</source>
+                <target>تسجيل خروج</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="SECTION_HEADER_BRANCHES">
+                <source>SECTION_HEADER_BRANCHES</source>
+                <target>الفروع</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="FORM_ERROR_EMPTY_NAME">
+                <source>FORM_ERROR_EMPTY_NAME</source>
+                <target>يرجى تعبئة في حقل اسم</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_TITLE_ERROR">
+                <source>ALERT_TITLE_ERROR</source>
+                <target>خطأ</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="SECTION_HEADER_MATERIALS">
+                <source>SECTION_HEADER_MATERIALS</source>
+                <target>المواد المطلوبة</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_MSG_LOGIN">
+                <source>ALERT_MSG_LOGIN</source>
+                <target>تسجيل دخول</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_TITLE_THANK_YOU">
+                <source>ALERT_TITLE_THANK_YOU</source>
+                <target>شكرا</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="BTN_SIGN_IN">
+                <source>BTN_SIGN_IN</source>
+                <target>تسجيل دخول</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="LOGIN_VALIDATION_PASSWORD_FORMAT">
+                <source>LOGIN_VALIDATION_PASSWORD_FORMAT</source>
+                <target>الرجاء إدخال كلمة سر صحيحة</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="SECTION_HEADER_TOOLS">
+                <source>SECTION_HEADER_TOOLS</source>
+                <target>الأدوات المطلوبة</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_MSG_THANK_YOU">
+                <source>ALERT_MSG_THANK_YOU</source>
+                <target>سنقوم بمراجعة التقديم بأسرع وقت ممكن!</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_BTN_OK">
+                <source>ALERT_BTN_OK</source>
+                <target>موافق</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_TITLE_LOGOUT">
+                <source>ALERT_TITLE_LOGOUT</source>
+                <target>تسجيل خروج</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_BTN_CANCEL">
+                <source>ALERT_BTN_CANCEL</source>
+                <target>إلغاء</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_BTN_LOGOUT">
+                <source>ALERT_BTN_LOGOUT</source>
+                <target>تسجيل خروج</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+            <trans-unit id="ALERT_MSG_LOGOUT">
+                <source>ALERT_MSG_LOGOUT</source>
+                <target>تسجيل خروج</target>
+                <note>No comment provided by engineer.</note>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

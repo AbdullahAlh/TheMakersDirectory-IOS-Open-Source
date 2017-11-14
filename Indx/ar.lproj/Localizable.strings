@@ -1,0 +1,69 @@
+/* No comment provided by engineer. */
+"ALERT_BTN_CANCEL" = "إلغاء";
+
+/* No comment provided by engineer. */
+"ALERT_BTN_LOGOUT" = "تسجيل خروج";
+
+/* No comment provided by engineer. */
+"ALERT_BTN_OK" = "موافق";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_LOGIN" = "يلزم تسجيل الدخول لكي تقوم بإرسال مشاركة";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_LOGOUT" = "هل أنت متأكد من تسجيل الخروج؟";
+
+/* No comment provided by engineer. */
+"ALERT_MSG_THANK_YOU" = "سنقوم بمراجعة التقديم بأسرع وقت ممكن!";
+
+"ALERT_MSG_PASSWORD_RESET" = "سيصلك بريد إلكتروني قريبا";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_ERROR" = "خطأ";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_LOGIN" = "تسجيل دخول";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_LOGOUT" = "تسجيل خروج";
+
+/* No comment provided by engineer. */
+"ALERT_TITLE_THANK_YOU" = "شكرا";
+
+/* No comment provided by engineer. */
+"BTN_SIGN_IN" = "تسجيل دخول";
+
+/* No comment provided by engineer. */
+"BTN_SIGN_OUT" = "تسجيل خروج";
+
+"EMPTY_FEED_MSG" = "لا يوجد نتائج";
+
+/* No comment provided by engineer. */
+"FORM_ERROR_DETAILS_EMPTY" = "يرجى تعبئة في حقل التفاصيل";
+
+/* No comment provided by engineer. */
+"FORM_ERROR_EMPTY_NAME" = "يرجى تعبئة في حقل اسم";
+
+/* No comment provided by engineer. */
+"LOGIN_VALIDATION_EMAIL_FORMAT" = "يرجى إدخال بريد إلكتروني صحيح";
+
+/* No comment provided by engineer. */
+"LOGIN_VALIDATION_PASSWORD_FORMAT" = "الرجاء إدخال كلمة سر صحيحة";
+
+"ONBOARDING_PROCEED_BTN" = "إبدأ بالتصنيع";
+
+"ONBOARDING_MSG_1" = "أعثر على الأداة التي تريدها لإنجاز مشروعك";
+"ONBOARDING_MSG_2" = "أعثر على المادة التي تريدها لإنجاز مشروعك";
+"ONBOARDING_MSG_3" = "أعثر على مقدم خدمة يمكنه مساعدتك في إنجاز مشروعك";
+
+"PRODUCT_LOCATION_HEADER" = "الأماكن";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_BRANCHES" = "الفروع";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_MATERIALS" = "المواد المطلوبة";
+
+/* No comment provided by engineer. */
+"SECTION_HEADER_TOOLS" = "الأدوات المطلوبة";
+

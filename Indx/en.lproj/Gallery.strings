@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Wood"; ObjectID = "1Ai-yu-XMH"; */
+"1Ai-yu-XMH.text" = "Wood";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "BBm-uC-8b3"; */
+"BBm-uC-8b3.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "BEz-ZS-Fq9"; */
+"BEz-ZS-Fq9.text" = "Required Materials";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "ER0-tx-H71"; */
+"ER0-tx-H71.normalTitle" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "FjN-CU-xjB"; */
+"FjN-CU-xjB.normalTitle" = "Sign in";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "Gg3-Kg-2Gg"; */
+"Gg3-Kg-2Gg.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "HFB-TX-3TE"; */
+"HFB-TX-3TE.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "Ilt-T0-QKF"; */
+"Ilt-T0-QKF.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Where to Find"; ObjectID = "LQa-tP-kgU"; */
+"LQa-tP-kgU.text" = "Where to Find";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "LfE-bi-wZ4"; */
+"LfE-bi-wZ4.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "PsK-FI-OSq"; */
+"PsK-FI-OSq.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZYe-8Q-D8d"; */
+"ZYe-8Q-D8d.text" = "Label";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "cng-VV-n1A"; */
+"cng-VV-n1A.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rdA-22-kay"; */
+"rdA-22-kay.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "sXM-BY-cZy"; */
+"sXM-BY-cZy.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Required Materials"; ObjectID = "sye-WM-zOP"; */
+"sye-WM-zOP.text" = "Required Materials";
+
+/* Class = "UILabel"; text = "Where to Find"; ObjectID = "yYr-Xd-1dn"; */
+"yYr-Xd-1dn.text" = "Where to Find";
