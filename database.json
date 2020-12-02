@@ -1,0 +1,1975 @@
+{
+  "Location" : {
+    "-KOFVhJJE8zMteF1stcQ" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.299958,
+      "lng" : 47.733356,
+      "name" : "Amgarah Industrial Area",
+      "name_ar" : "أمغرة الصناعية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhJds_hdzwW0MXwV" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.315145,
+      "lng" : 47.659815,
+      "name" : "Al Jahra Industrial Area",
+      "name_ar" : "الجهراء الصناعية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhJe_4KeEA8TxIN6" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.330424,
+      "lng" : 47.938599,
+      "name" : "Industrial Shuwaikh",
+      "name_ar" : "الشويخ الصناعية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhJe_4KeEA8TxIN7" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.072098,
+      "lng" : 48.118887,
+      "name" : "Industrial Fahaheel",
+      "name_ar" : "فحيحيل الصناعية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhJfMhT6Q8En0XQJ" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.233737,
+      "lng" : 48.004575,
+      "name" : "Industrial Sabhan",
+      "name_ar" : "صبحان الصناعية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhJgCj2ydrXEGhA4" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.3065624,
+      "lng" : 47.9287872,
+      "name" : "7erafy",
+      "name_ar" : "الحرفي",
+      "phone_number" : [ "50152089" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/7erafy"
+    },
+    "-KOFVhJgCj2ydrXEGhA5" : {
+      "branch" : [ {
+        "lat" : 29.352783,
+        "lng" : 47.998877,
+        "name" : "FabLab Qadsiya",
+        "name_ar" : "فاب لاب القادسية",
+        "phone_number" : [ "22991100 Ext. 408" ]
+      }, {
+        "lat" : 29.348607,
+        "lng" : 47.952362,
+        "name" : "FabLab Shuwaikh",
+        "name_ar" : "فاب لاب الشويخ",
+        "phone_number" : [ "22991100 Ext. 408" ]
+      }, {
+        "lat" : 29.349927,
+        "lng" : 47.670865,
+        "name" : "FabLab AlJahra",
+        "name_ar" : "فاب لاب الجهراء",
+        "phone_number" : [ "22991100 Ext. 408" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-space.jpg?alt=media&token=55088a12-3753-4a22-82b6-c41d6de0993e",
+      "logo" : " ",
+      "name" : "FabLab",
+      "name_ar" : "فاب لاب",
+      "phone_number" : [ "22991100 Ext. 408" ],
+      "type" : "Space",
+      "type_ar" : "مساحة عمل",
+      "url" : "http://fablabkuwait.sacgc.org"
+    },
+    "-KOFVhJi4bmQ_S7QBQp8" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-complex.jpg?alt=media&token=852ee158-c35d-4c61-871c-e8ff9d6f088e",
+      "lat" : 29.375241,
+      "lng" : 47.974014,
+      "name" : "Eid Alnassar Complex",
+      "name_ar" : "مجمع عيد النصار",
+      "type" : "Complex",
+      "type_ar" : "مجمع"
+    },
+    "-KOFVhJk_i3r8yhVTFRE" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-complex.jpg?alt=media&token=852ee158-c35d-4c61-871c-e8ff9d6f088e",
+      "lat" : 29.372279,
+      "lng" : 47.978459,
+      "name" : "Blocks Fabric Complex",
+      "name_ar" : "مجمع البلوكات للأقمشة",
+      "type" : "Complex",
+      "type_ar" : "مجمع"
+    },
+    "-KOFVhJlCgwcqecf3XA9" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-complex.jpg?alt=media&token=852ee158-c35d-4c61-871c-e8ff9d6f088e",
+      "lat" : 29.383297,
+      "lng" : 47.989581,
+      "name" : "Dasman Complex",
+      "name_ar" : "مجمع دسمان",
+      "type" : "Complex",
+      "type_ar" : "مجمع"
+    },
+    "-KOFVhJlCgwcqecf3XAA" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.32365,
+      "lng" : 47.95016,
+      "name" : "Bin Nisf",
+      "name_ar" : "بن نصف",
+      "phone_number" : [ "1822244", "24845660", "24810910" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://bin-nisf.com"
+    },
+    "-KOFVhJmBBIZ8K9y9Kio" : {
+      "branch" : [ {
+        "lat" : 29.32738,
+        "lng" : 47.951042,
+        "name" : "Jawad AlSaffar Industrial Shuwaikh",
+        "name_ar" : "جواد الصفار الشويخ الصناعية",
+        "phone_number" : [ "24841832", "24841695", "24830507", "24830508" ]
+      }, {
+        "lat" : 29.073442,
+        "lng" : 48.118144,
+        "name" : "Jawad AlSaffar Industrial Fahaheel",
+        "name_ar" : "جواد الصفار الفحيحيل الصناعية",
+        "phone_number" : [ "23928343", "23926961" ]
+      }, {
+        "lat" : 29.373124,
+        "lng" : 47.973256,
+        "name" : "Jawad AlSaffar Souk AlSelah",
+        "name_ar" : "جواد الصفار سوق السلاح",
+        "phone_number" : [ "22405357" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Jawad AlSaffar",
+      "name_ar" : "جواد الصفار",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://jawad-alsaffar.com"
+    },
+    "-KOFVhJqH-bDdMiCOkFN" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.383529,
+      "lng" : 47.989619,
+      "name" : "Sign Art",
+      "name_ar" : "ساين آرت",
+      "phone_number" : [ "22490516" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KOFVhJt9P5i4v2evx2M" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.326626,
+      "lng" : 47.949657,
+      "name" : "CutKW",
+      "name_ar" : "كت",
+      "phone_number" : [ "98904948", "24920089" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/cutkw"
+    },
+    "-KOFVhJt9P5i4v2evx2N" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Wain+",
+      "name_ar" : "وين بلس",
+      "phone_number" : [ "96677730" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://wainplus.com"
+    },
+    "-KOFVhJuPg5GXLWj5Ef5" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "3DPme",
+      "name_ar" : "الطباعة ثلاثية الأبعاد",
+      "phone_number" : [ "99622030" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.threedp.me"
+    },
+    "-KOFVhJxe2v-jF9z21e8" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "eWood Woodworking",
+      "name_ar" : "إي وود للنجارة",
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/ewood_q8"
+    },
+    "-KOFVhJy_S_yrVlP91Pp" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.341791,
+      "lng" : 47.937636,
+      "name" : "Arnavian",
+      "name_ar" : "أرنيفين",
+      "phone_number" : [ "95554769" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/arnavian/"
+    },
+    "-KOFVhJy_S_yrVlP91Pq" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.324546,
+      "lng" : 47.943325,
+      "name" : "Reem Land",
+      "name_ar" : "ريم لاند لصب المعادن",
+      "phone_number" : [ "66148070", "97494491" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KOFVhJzZQR4K89JWAgj" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.231624,
+      "lng" : 48.002221,
+      "name" : "iPack",
+      "name_ar" : "آي باك",
+      "phone_number" : [ "98016666", "22216666" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/ipack.printing/"
+    },
+    "-KOFVhK0Euf4fMhCf-cR" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Idea Link",
+      "name_ar" : "آيديا لنك",
+      "phone_number" : [ "99281008" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://store.idea-link.net/"
+    },
+    "-KOFVhK0Euf4fMhCf-cS" : {
+      "branch" : [ {
+        "lat" : 29.336194,
+        "lng" : 48.016778,
+        "name" : "RTC Hawally",
+        "name_ar" : "آر تي سي حولي"
+      }, {
+        "lat" : 29.369202,
+        "lng" : 47.987079,
+        "name" : "RTC Alawqaf complex",
+        "name_ar" : "آر تي سي مجمع الأوقاف"
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "RTC",
+      "name_ar" : "آر تي سي",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.rtc-electronics.com.kw/"
+    },
+    "-KOFVhK1j3EDkDoculDd" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.368927,
+      "lng" : 47.991044,
+      "name" : "Alsafafeer",
+      "name_ar" : "الصفافير",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KOFVhK28WAmGR2FP4rd" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.327846,
+      "lng" : 47.943535,
+      "name" : "Kharma",
+      "name_ar" : "خرما",
+      "phone_number" : [ "24816337", "66841010" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://mkharma.com"
+    },
+    "-KOFVhK28WAmGR2FP4re" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.328287,
+      "lng" : 47.94333,
+      "name" : "Kharma Bearings",
+      "name_ar" : "خرما قسم البيرنجات",
+      "phone_number" : [ "24828497", "66909955" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://mkharma.com"
+    },
+    "-KOFVhK3pNArOVufESte" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.328307,
+      "lng" : 47.943476,
+      "name" : "Kharma Industrial Equipments",
+      "name_ar" : "خرما للأدوات الصناعية",
+      "phone_number" : [ "24847610", "65048950" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://mkharma.com"
+    },
+    "-KOFVhK4Qry7EG_xQNm6" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.343948,
+      "lng" : 48.015678,
+      "name" : "Global classic glass Center",
+      "name_ar" : "جلوبل كلاسيك للزجاج",
+      "phone_number" : [ "22616878", "97831129" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KOFVhK4Qry7EG_xQNm7" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-space.jpg?alt=media&token=55088a12-3753-4a22-82b6-c41d6de0993e",
+      "lat" : 29.341527,
+      "lng" : 47.938025,
+      "name" : "The Print Room",
+      "name_ar" : "ذي برنت روم",
+      "type" : "Space",
+      "type_ar" : "مساحة عمل",
+      "url" : "https://www.instagram.com/printroom.club/"
+    },
+    "-KOFVhK5rb5xU_m9tN_y" : {
+      "branch" : [ {
+        "lat" : 29.335152,
+        "lng" : 48.070074,
+        "name" : "Barakat",
+        "name_ar" : "بركات"
+      }, {
+        "lat" : 29.341356,
+        "lng" : 48.075271,
+        "name" : "Barakat AlBustan Complex",
+        "name_ar" : "بركات مجمع البستان"
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Barakat",
+      "name_ar" : "بركات",
+      "phone_number" : [ 25746727, 25746728 ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/barakat_kuwait/"
+    },
+    "-KOFVhK6ZxzvztTDH5Dq" : {
+      "branch" : [ {
+        "lat" : 29.380817,
+        "lng" : 47.990996,
+        "name" : "Marafie cleaning Sharq",
+        "name_ar" : "معرفي للتنظيف شرق"
+      }, {
+        "lat" : 29.322232,
+        "lng" : 47.935622,
+        "name" : "Marafie cleaning Shuwaikh",
+        "name_ar" : "معرفي للتنظيف الشويخ"
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Marafie cleaning",
+      "name_ar" : "معرفي للتنظيف",
+      "phone_number" : [ "22404400", "22401271" ],
+      "type" : "Store",
+      "type_ar" : "محل"
+    },
+    "-KOFVhK86_0xVnVqZV2t" : {
+      "branch" : [ {
+        "lat" : 29.311846,
+        "lng" : 47.942126,
+        "name" : "AlBaghli AlRay",
+        "name_ar" : "البغلي الري",
+        "phone_number" : [ "24725555" ]
+      }, {
+        "lat" : 29.264194,
+        "lng" : 47.961417,
+        "name" : "AlBaghli AlDajij",
+        "name_ar" : "البغلي الضجيج",
+        "phone_number" : [ "24314666" ]
+      }, {
+        "lat" : 29.307937,
+        "lng" : 47.754767,
+        "name" : "AlBaghli Amgarah",
+        "name_ar" : "البغلي أمغرة",
+        "phone_number" : [ "24588844" ]
+      }, {
+        "lat" : 29.342529,
+        "lng" : 48.018427,
+        "name" : "AlBaghli Hawally",
+        "name_ar" : "البغلي حولي",
+        "phone_number" : [ "22616888" ]
+      }, {
+        "lat" : 29.340027,
+        "lng" : 47.672352,
+        "name" : "AlBaghli Jahra",
+        "name_ar" : "البغلي الجهراء",
+        "phone_number" : [ "24552006 Ext. 7" ]
+      }, {
+        "lat" : 29.081299,
+        "lng" : 48.134441,
+        "name" : "AlBaghli Fahaheel",
+        "name_ar" : "البغلي الفحيحيل",
+        "phone_number" : [ "23916888" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "AlBaghli",
+      "name_ar" : "البغلي",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/albaghlisponge/"
+    },
+    "-KOFVhKCJ3_ZQZEM3XI_" : {
+      "branch" : [ {
+        "lat" : 29.312239,
+        "lng" : 47.934185,
+        "name" : "AlJerawy AlRay",
+        "name_ar" : "الجريوي الري",
+        "phone_number" : [ "24725550", "24720005" ]
+      }, {
+        "lat" : 29.311794,
+        "lng" : 47.942334,
+        "name" : "AlJerawy AlGazali",
+        "name_ar" : "الجريوي الغزالي",
+        "phone_number" : [ "96969425", "50244003", "99025660", "24764477", "1803040" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "AlJerawy",
+      "name_ar" : "الجريوي",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.aljerawy.com/"
+    },
+    "-KOFVhKDwOIlWBYNyxE2" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.174327,
+      "lng" : 48.094734,
+      "name" : "Crafts and more",
+      "name_ar" : "كرافتس آند مور",
+      "phone_number" : [ "51120069" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.craftsandmorekw.com/"
+    },
+    "-KOFVhKE3pPuvmr03kTW" : {
+      "branch" : [ {
+        "lat" : 29.309108,
+        "lng" : 47.932514,
+        "name" : "Ace Hardware AlRay",
+        "name_ar" : "إيس هاردوير الري",
+        "phone_number" : [ "24724663", "24756233" ]
+      }, {
+        "lat" : 29.343228,
+        "lng" : 48.017567,
+        "name" : "Ace Hardware Hawally",
+        "name_ar" : "إيس هاردوير حولي",
+        "phone_number" : [ "22622663" ]
+      }, {
+        "lat" : 29.174274,
+        "lng" : 48.094698,
+        "name" : "Ace Hardware Eagila",
+        "name_ar" : "إيس هاردوير العقيلة",
+        "phone_number" : [ "22210167" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Ace Hardware",
+      "name_ar" : "إيس هاردوير",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://acekuwait.com/Ace.aspx"
+    },
+    "-KOFVhMQuJ9SCMKlI1Lg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.374283,
+      "lng" : 47.973196,
+      "name" : "Al Mubarakiya",
+      "name_ar" : "سوق المباركية",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtlhobiHEU6LTNy42" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.311349,
+      "lng" : 47.928593,
+      "name" : "Kuwait Foundry Co.",
+      "name_ar" : "شركة السكب الكويتيه",
+      "phone_number" : [ "24766691", "24766692", "24766693", "24766694", "24752781", "94449164" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtli3cRAVjT8tZLTX" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.072988,
+      "lng" : 48.11794,
+      "name" : "Industrial Fahaheel Woodwork street",
+      "name_ar" : "فحيحيل الصناعية شارع المناجر",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli5-yiHMBAbMy1e" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.072762,
+      "lng" : 48.113965,
+      "name" : "Industrial Fahaheel Blacksmithing street",
+      "name_ar" : "فحيحيل الصناعية شارع الحدادين",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli5-yiHMBAbMy1f" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.32874,
+      "lng" : 47.949027,
+      "name" : "Industrial Shuwaikh Woodwork street",
+      "name_ar" : "الشويخ الصناعية شارع المناجر",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli6uiIQ5C3z7p3R" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.329496,
+      "lng" : 47.947774,
+      "name" : "Industrial Shuwaikh Acrylic shops",
+      "name_ar" : "الشويخ الصناعية محلات أكريلك",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli6uiIQ5C3z7p3S" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.324931,
+      "lng" : 47.947176,
+      "name" : "Industrial Shuwaikh Blacksmithing street",
+      "name_ar" : "الشويخ الصناعية شارع الحدادين",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli7U7zJ-RtKtJgC" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.329474,
+      "lng" : 47.950173,
+      "name" : "Industrial Shuwaikh Wood street",
+      "name_ar" : "الشويخ الصناعية شارع الخشب",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KQUtli8H5s3po-EVlrs" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.296184,
+      "lng" : 47.746539,
+      "name" : "Altwasol Factory",
+      "name_ar" : "مصنع التواصل",
+      "phone_number" : [ "22218979", "69301823" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/twasol/?hl=en"
+    },
+    "-KQUtli9NHfgJASHuECg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.309575,
+      "lng" : 47.754075,
+      "name" : "Mizan Factory",
+      "name_ar" : "مصنع ميزان",
+      "phone_number" : [ "24568141" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliBUD9AgY6ksZZF" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.308697,
+      "lng" : 47.753932,
+      "name" : "Kuwait Boxes",
+      "name_ar" : "كويت بوكس",
+      "phone_number" : [ "24573696" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://www.kuwaitboxes.com/ar/aboutus.html"
+    },
+    "-KQUtliCMRUamFumcsBg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.308276,
+      "lng" : 47.753196,
+      "name" : "Glass Tec CO.",
+      "name_ar" : "شركة مصنع جلاستيك",
+      "phone_number" : [ "66228020" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliCMRUamFumcsBh" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.307081,
+      "lng" : 47.752807,
+      "name" : "Kuwaitina Factory",
+      "name_ar" : "مصنع كويتنا",
+      "phone_number" : [ "24566700", "24566800" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliEcvMLUcFC2sl5" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.309263,
+      "lng" : 47.675869,
+      "name" : "Q8 Black plastic trash bags",
+      "name_ar" : "Q8 لصناعة أكياس القمامة السميكة السوداء",
+      "phone_number" : [ "99179669" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliFne_rlRCrFACX" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.308197,
+      "lng" : 47.674773,
+      "name" : "Nadya & Aliya AlGori Gypsum Decoration Factory ",
+      "name_ar" : "مصنع نادية وعالية الجوري لصب جبس الديكور   ",
+      "phone_number" : [ "98882594", "50833056" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliGp9PLOqscAkEg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.23296,
+      "lng" : 48.004153,
+      "name" : "Arab European Aluminium CO.",
+      "name_ar" : "الشركة العربية الاوربية للالمنيوم",
+      "phone_number" : [ "24747733", "24741303" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliIbqS3XNB_zaGf" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.229896,
+      "lng" : 48.012626,
+      "name" : "Plastic Industries Company ",
+      "name_ar" : "شركة الصناعات البلاستيكية",
+      "phone_number" : [ "24742623", "24732009" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://www.plasind.com/"
+    },
+    "-KQUtliIbqS3XNB_zaGg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.230115,
+      "lng" : 48.015472,
+      "name" : "Arwa Universal Printing Press",
+      "name_ar" : "أروى العالمية لأعمال الطباعة",
+      "phone_number" : [ "24791900" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://www.arwa.com.kw/"
+    },
+    "-KQUtliJRgAmv3cDiPkZ" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.231633,
+      "lng" : 48.010123,
+      "name" : "Thuraya Aluminium Factory",
+      "name_ar" : "مصنع ثريا لصناعات الالمنيوم",
+      "phone_number" : [ "24916090", "24916080" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliKnVU_uvXbPYfv" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.232388,
+      "lng" : 48.010459,
+      "name" : "AlJothoor Facial Tissure Paper Factory",
+      "name_ar" : "مصنع الجذور لصناعة محارم الورق",
+      "phone_number" : [ "24755985", "24755986" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliKnVU_uvXbPYfw" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.231314,
+      "lng" : 48.009195,
+      "name" : "Carton Industries K.S.C",
+      "name_ar" : "شركة صناعة الكرتون",
+      "phone_number" : [ "24752516", "24747548" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliMp1i7CT5KCyQn" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.232692,
+      "lng" : 48.004547,
+      "name" : "AlRawdah Plastic & Paper Bag Factory",
+      "name_ar" : "شركة الروضة لصناعة وطبع الأكياس الورق والبلاستيك",
+      "phone_number" : [ "24740249", "24740162" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliNTorqlH5Ii3LD" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.225126,
+      "lng" : 48.006546,
+      "name" : "British Industries Printing & packaging CO.",
+      "name_ar" : "شركة الصناعات البريطانية للطباعة والتغليف ",
+      "phone_number" : [ "1880022" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://www.britishindustries.net/main.html"
+    },
+    "-KQUtliPLd5X6EGGsh5L" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.226676,
+      "lng" : 48.009875,
+      "name" : "GTC Adhesive Factory",
+      "name_ar" : "مصنع جي تي سي للمواد اللاصقة",
+      "phone_number" : [ "24710120", "24761020" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KQUtliQy9LpUKieEvE4" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.329714,
+      "lng" : 47.947844,
+      "name" : "TGS",
+      "name_ar" : "تي جي اس",
+      "phone_number" : [ "24912237" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://tgsq8.com/"
+    },
+    "-KQUtlildxTBH7qH4q4i" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Montana Colors",
+      "name_ar" : "مونتانا كولورز",
+      "phone_number" : [ "65149544" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/mtncolors_kuwait/"
+    },
+    "-KUWZFs_jBkqinOWnXH9" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.330318,
+      "lng" : 47.941939,
+      "name" : "West Gulf",
+      "name_ar" : "شركة غربي الخليج",
+      "phone_number" : [ "22241213", "22241214" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://twitter.com/westgulf_co"
+    },
+    "-KUWZFsqqBw65UGIp5iR" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.32447,
+      "lng" : 47.931832,
+      "name" : "Metal Center",
+      "name_ar" : "مركز المعادن",
+      "phone_number" : [ "24849289" ],
+      "type" : "Store",
+      "type_ar" : "محل"
+    },
+    "-KUWZFsrLLD1RVxrE6aU" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-complex.jpg?alt=media&token=852ee158-c35d-4c61-871c-e8ff9d6f088e",
+      "lat" : 29.372142,
+      "lng" : 47.978162,
+      "name" : "Safat Market",
+      "name_ar" : "سوق الصفاة",
+      "type" : "Complex",
+      "type_ar" : "مجمع"
+    },
+    "-KUWZFssvhQtAnJGxu2b" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.323689,
+      "lng" : 47.951361,
+      "name" : "A2Z",
+      "name_ar" : "أي تو زيد",
+      "phone_number" : [ "24847180", "24847129" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.a2zhomestore.com/"
+    },
+    "-KUWZFssvhQtAnJGxu2c" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.318785,
+      "lng" : 47.93512,
+      "name" : "Al-Atraf International",
+      "name_ar" : "شركة الأطراف العالمية",
+      "phone_number" : [ "24821431", "24823924", "24815069", "90080001" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.alatraf.com/english/"
+    },
+    "-KUWZFsuJ3S0xwnlzLGK" : {
+      "branch" : [ {
+        "lat" : 29.324755,
+        "lng" : 47.952006,
+        "name" : "True Value Shuwaikh",
+        "name_ar" : "ترو فاليو الشويخ",
+        "phone_number" : [ "24833168" ]
+      }, {
+        "lat" : 29.306641,
+        "lng" : 47.936184,
+        "name" : "True Value Alrai",
+        "name_ar" : "ترو فاليو الري",
+        "phone_number" : [ "24750088" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "True Value",
+      "name_ar" : "ترو فاليو",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.truevalue.com.kw/"
+    },
+    "-KUWZFt0p3VR3LlilWKd" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Golden Sun Factory",
+      "name_ar" : "مصنع جولدن صن",
+      "phone_number" : [ "24729999", "50876669", "66603222" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://goldensunfactory.com/"
+    },
+    "-KUWZFt3W10uKQrfS9fM" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.306094,
+      "lng" : 47.938908,
+      "name" : "Yourkan Carpet Factory",
+      "name_ar" : "مصنع يوركان للسجاد",
+      "phone_number" : [ "24755101", "24755102", "24755103", "97599920" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://yourkan.com/"
+    },
+    "-KUWZFt6Q2rTe71bXX8m" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Gulf Leather Industries",
+      "name_ar" : "مصنع الخليج للصناعات الجلدية",
+      "phone_number" : [ "99694888", "24750293" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KUWZFt74pnGqy75WOXc" : {
+      "branch" : [ {
+        "lat" : 29.325175,
+        "lng" : 47.948886,
+        "name" : "Kuwait Oxygen Shuwaikh",
+        "name_ar" : "أكسجين الكويت الشويخ"
+      }, {
+        "lat" : 29.085581,
+        "lng" : 48.085721,
+        "name" : "Kuwait Oxygen Ahmadi",
+        "name_ar" : "أكسجين الكويت الأحمدي"
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Kuwait Oxygen Co",
+      "name_ar" : "شركة أكسجين الكويت",
+      "phone_number" : [ "1802028", "1808666 Ext. 101", "1808666 Ext. 102", "66129759" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.gulfcryo.com/"
+    },
+    "-KUWZFtAFXkWjeV79Q3A" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.322173,
+      "lng" : 47.942755,
+      "name" : "Alsalam Lathe",
+      "name_ar" : "مخرطة السلام",
+      "phone_number" : [ "55575049" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KUWZFtBBgdtNCK5OmFv" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.320733,
+      "lng" : 47.944286,
+      "name" : "Allaifan Lathe",
+      "name_ar" : "مخرطة الليفان",
+      "phone_number" : [ "97402135" ],
+      "type" : "Service",
+      "type_ar" : "خدمة"
+    },
+    "-KUWZFtDqOK9pSkslYIg" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.325496,
+      "lng" : 47.940649,
+      "name" : "Aleppo Stores",
+      "name_ar" : "مخازن حلب",
+      "phone_number" : [ "24810729", "24812570" ],
+      "type" : "Store",
+      "type_ar" : "محل"
+    },
+    "-KUWZFtELTYwGW7YH71Z" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.328432,
+      "lng" : 47.949253,
+      "name" : "Industrial Shuwaikh Glass Street",
+      "name_ar" : "الشويخ الصناعية شارع الزجاج",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KUWZFtELTYwGW7YH71_" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.326767,
+      "lng" : 47.95021,
+      "name" : "Industrial Shuwaikh Marble Street",
+      "name_ar" : "الشويخ الصناعية شارع الرخام",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KUWZFtGqh9ovP9kqDnl" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "CBits",
+      "name_ar" : "سي بتس",
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "http://www.creativebits.cc/"
+    },
+    "-KUWZFtHQ9kJFcL4aHXc" : {
+      "branch" : [ {
+        "lat" : 29.322715,
+        "lng" : 47.942545,
+        "name" : "AirTec Shuwaikh",
+        "name_ar" : "أير تك الشويخ",
+        "phone_number" : [ "1844844 Ext. 444", "1844844 Ext. 555" ]
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "AirTec",
+      "name_ar" : "أير تك",
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "http://www.airtecgulf.com/"
+    },
+    "-KUWZFtL4ueV20JAW3VM" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Enthusiast Wood",
+      "name_ar" : "إنثوزيست وود",
+      "phone_number" : [ "25336595" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/enthusiastwood/"
+    },
+    "-KUWZFtqO6xs6fPFj7G1" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Tektōn",
+      "name_ar" : "تيكتين",
+      "phone_number" : [ "99229974" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/tekton_fab/"
+    },
+    "-KUkakGr5IeEjryUTzRM" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.33922,
+      "lng" : 47.962081,
+      "name" : "Crafty",
+      "name_ar" : "كرافتي",
+      "phone_number" : [ "24915965" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/crafty_kw/"
+    },
+    "-KUkakH69qxemkpeK2_T" : {
+      "branch" : [ {
+        "lat" : 29.337093,
+        "lng" : 48.020605,
+        "name" : "Swaad Al Damkhi Bairut Complex",
+        "name_ar" : "سعاد الدمخي مجمع بيروت"
+      }, {
+        "lat" : 29.334918,
+        "lng" : 48.069503,
+        "name" : "Swaad Al Damkhi Alsalmiya",
+        "name_ar" : "سعاد الدمخي السالمية"
+      } ],
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Swaad Al Damkhi",
+      "name_ar" : "سعاد الدمخي",
+      "phone_number" : [ "66651496", "25746469" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/swaad.al.damkhi/"
+    },
+    "-KUkakHSl6nUY-ebRg6J" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.344,
+      "lng" : 48.013941,
+      "name" : "Needles & Yarn",
+      "name_ar" : "ابرة و خيط",
+      "phone_number" : [ "66699996" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/needlesandyarn/"
+    },
+    "-KUl9dymrR3n3nhAX4Yv" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.382946,
+      "lng" : 47.98977,
+      "name" : "Hand Art Company",
+      "name_ar" : "شركة الفنون اليدوية",
+      "phone_number" : [ "22428158" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/marahbarakat/"
+    },
+    "-KUl9dzL_S7gddcgpKQ7" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "lat" : 29.382946,
+      "lng" : 47.98977,
+      "name" : "Mutla ridge Green Foundation",
+      "name_ar" : "مؤسسة المطلاع الأخضر",
+      "phone_number" : [ "22408849", "65980719", "66663782" ],
+      "type" : "Store",
+      "type_ar" : "محل"
+    },
+    "-KZBVOHzVuD8GtLDWeH2" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-store.jpg?alt=media&token=5f19370b-578f-47d8-9d4f-41ca11b92032",
+      "name" : "Alssir Art",
+      "name_ar" : "السري آرت",
+      "phone_number" : [ "66557572" ],
+      "type" : "Store",
+      "type_ar" : "محل",
+      "url" : "https://www.instagram.com/alssirart/"
+    },
+    "-KZBVOIMc_IVMeMYiimN" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.375241,
+      "lng" : 47.974014,
+      "name" : "Allura Corner",
+      "name_ar" : "ركن الورا",
+      "phone_number" : [ "22461041", "99123432" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/alluracorner/"
+    },
+    "-KZBVOIOpHguVoeX_NME" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "lat" : 29.322961,
+      "lng" : 47.949156,
+      "name" : "Al-Matrook Paint Factory",
+      "name_ar" : "مصنع المتروك للأصباغ",
+      "phone_number" : [ "96687421", "24814025", "24810484", "24814026" ],
+      "type" : "Service",
+      "url" : "http://almatrookpaintfactory.com/"
+    },
+    "-KZBVOIu5hIGzxYHt8JY" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Exfusion3D",
+      "name_ar" : "إكس فيوجن ٣د",
+      "phone_number" : [ "55111010" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/exfusion3d/"
+    },
+    "-KbAmHUMLNKqtPA8S6CF" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.374208,
+      "lng" : 47.985141,
+      "name" : "Leather Shops Alshuhada Street",
+      "name_ar" : "محلات الجلد شارع الشهداء",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KbAmHVDPv9FMHZKcjxp" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-area.jpg?alt=media&token=f63aca3f-c4b1-47f9-ac50-c8d2875f6a52",
+      "lat" : 29.376592,
+      "lng" : 47.98794,
+      "name" : "Gold & Silversmithing Shops Alshuhada Street",
+      "name_ar" : "محلات صياغة الذهب و الفضة شارع الشهداء",
+      "type" : "Area",
+      "type_ar" : "منطقة"
+    },
+    "-KbAr5HFViN3FP6aNjw3" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Anvil Designs",
+      "name_ar" : "أنڤل ديزاين",
+      "phone_number" : [ "+96599722331" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/anvil.designs/"
+    },
+    "-LN1VCZgY4LyrNrGbodv" : {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/places%2Fjpg_images%2Fplace-service.jpg?alt=media&token=1f83e3a8-4f7e-46bc-a69f-34095e12603f",
+      "name" : "Tally Studio",
+      "name_ar" : "تالي ستديو",
+      "phone_number" : [ "+96599165654" ],
+      "type" : "Service",
+      "type_ar" : "خدمة",
+      "url" : "https://www.instagram.com/tally.studio/"
+    }
+  },
+  "Material" : {
+    "-KOFVhLmCHBVf-T0i7sj" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-wood.jpg?alt=media&token=627596ad-14ab-44d6-a252-aa38f201c75b",
+      "location" : {
+        "-KOFVhJxe2v-jF9z21e8" : true,
+        "-KOFVhJy_S_yrVlP91Pp" : true,
+        "-KQUtli3cRAVjT8tZLTX" : true,
+        "-KQUtli5-yiHMBAbMy1f" : true,
+        "-KQUtli7U7zJ-RtKtJgC" : true,
+        "-KUWZFtL4ueV20JAW3VM" : true,
+        "-KbAr5HFViN3FP6aNjw3" : true
+      },
+      "name" : "Wood",
+      "name_ar" : "خشب"
+    },
+    "-KOFVhLq21rzrtmwZMgZ" : {
+      "description" : "Silicon can be used for making molds for cake, chocolate and wax. For making food mold the Silicon should be foodgrade.",
+      "description_ar" : "يمكن استخدام السيليكون لصنع قوالب الكيك والكاكاو والشمع. عند استخدام السيليكون لصنع قالب للطعام يجب أن يكون السيليكون من نوع يمكن استخدامه للطعام.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-silicon.jpg?alt=media&token=7c08f25e-d261-491a-a748-682a1a9419f1",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA4" : true
+      },
+      "name" : "Silicon",
+      "name_ar" : "سيليكون سائل "
+    },
+    "-KOFVhLrShueGHwGYQQ9" : {
+      "description" : "Plastic sheets can be cut and engraved using a laser cutter.",
+      "description_ar" : "صفائح بلاستيكية يمكن قصها و الحفر عليها باستخدام جهاز ليزر كتر.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-acrylic.jpg?alt=media&token=039cee94-fdbb-4a2b-a09c-6e329f15158d",
+      "location" : {
+        "-KOFVhJe_4KeEA8TxIN6" : true,
+        "-KOFVhJlCgwcqecf3XA9" : true,
+        "-KOFVhJqH-bDdMiCOkFN" : true,
+        "-KOFVhJt9P5i4v2evx2M" : true,
+        "-KQUtli6uiIQ5C3z7p3R" : true
+      },
+      "name" : "Acrylic",
+      "name_ar" : "أكريلك"
+    },
+    "-KOFVhLsiaNm869OHnZW" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-polymerclay.jpg?alt=media&token=564479d3-b071-42cf-bc9a-73bec4e09ca9",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA4" : true
+      },
+      "name" : "Polymer Clay",
+      "name_ar" : "صلصال"
+    },
+    "-KOFVhLsiaNm869OHnZX" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-fabric.jpg?alt=media&token=93cd981a-c7ac-481b-896b-22624348064e",
+      "location" : {
+        "-KOFVhJk_i3r8yhVTFRE" : true,
+        "-KOFVhK5rb5xU_m9tN_y" : true,
+        "-KUWZFsrLLD1RVxrE6aU" : true
+      },
+      "name" : "Fabric",
+      "name_ar" : "قماش"
+    },
+    "-KOFVhLupZP6d2QXIcV0" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-glass.jpg?alt=media&token=f66fd3b6-75f2-4350-be6f-a1130c9523de",
+      "location" : {
+        "-KOFVhJe_4KeEA8TxIN6" : true,
+        "-KOFVhK4Qry7EG_xQNm6" : true,
+        "-KUWZFtELTYwGW7YH71Z" : true
+      },
+      "name" : "Glass",
+      "name_ar" : "زجاج"
+    },
+    "-KOFVhLwExLNU7upiM99" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-cement.jpg?alt=media&token=18aad030-02da-47d1-911f-183795698fec",
+      "location" : {
+        "-KOFVhJe_4KeEA8TxIN6" : true,
+        "-KOFVhKE3pPuvmr03kTW" : true
+      },
+      "name" : "Cement",
+      "name_ar" : "أسمنت"
+    },
+    "-KOFVhM0-8b_u0jLOaJE" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-ceramic.jpg?alt=media&token=780b7917-b171-43a3-b7d3-a3509de78af3",
+      "name" : "Ceramic Powder",
+      "name_ar" : "بودرة سيراميك"
+    },
+    "-KOFVhM1U_v4PmxZn51D" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-wax.jpg?alt=media&token=be151a38-b9e3-4882-9869-54f60cac3e2b",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA4" : true,
+        "-KUWZFssvhQtAnJGxu2b" : true,
+        "-KUWZFsuJ3S0xwnlzLGK" : true
+      },
+      "name" : "Wax",
+      "name_ar" : "شمع"
+    },
+    "-KOFVhM1U_v4PmxZn51E" : {
+      "description" : "Used to isolate floors and surfaces. Can be used as a finish on surfaces.",
+      "description_ar" : "يستخدم كطلاء عازل للأرضيات والأسطح. ويمكن استخدامه في اللمسات الأخيرة للمنتج.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-epoxy.jpg?alt=media&token=d862407d-45a9-4229-9228-420a61fc63c9",
+      "location" : {
+        "-KOFVhKE3pPuvmr03kTW" : true
+      },
+      "name" : "Epoxy",
+      "name_ar" : "إيبوكسي"
+    },
+    "-KOFVhM1U_v4PmxZn51F" : {
+      "description" : "ِA resin that can be poured into molds for making plastic parts.",
+      "description_ar" : "مادة يمكن صبها داخل القوالب لصنع قطع بلاستيكية.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-resin.jpg?alt=media&token=26daa1fe-9e4c-4776-9f6b-04c89778c588",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA4" : true
+      },
+      "name" : "Casting Resin",
+      "name_ar" : "مادة صب صمغية"
+    },
+    "-KOFVhM2zby0Z0vzJi0-" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-plaster.jpg?alt=media&token=0bdea1a5-80ab-453f-8d16-4734ea3cf1b7",
+      "name" : "Plaster",
+      "name_ar" : "جبس"
+    },
+    "-KOFVhM2zby0Z0vzJi00" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-air-bubble-sheet.jpg?alt=media&token=4c581852-907f-4317-b10d-7c3005ff3638",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Air Bubble Sheet",
+      "name_ar" : "صفيحة فقاعات هوائية"
+    },
+    "-KOFVhM2zby0Z0vzJi01" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-barbed-wire.jpg?alt=media&token=4b59b096-80f2-4b9b-bf12-627af2d42d6b",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Barbed wire",
+      "name_ar" : "سلك شائك"
+    },
+    "-KOFVhM3lj2zuJkpMxuU" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-foam-sheet.jpg?alt=media&token=edcd19ff-845a-4f35-b4c9-709bf56beb1e",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Foam Sheet",
+      "name_ar" : "صفيحة فوم"
+    },
+    "-KOFVhM4TzdnY6wS1c5g" : {
+      "description" : "It is used as an insulator.",
+      "description_ar" : "يستخدم كعازل.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-aluminium-foil-glass-wool.jpg?alt=media&token=2ed79e0f-5297-4997-96c0-2d4e56afe906",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Aluminium Foil Glass Wool",
+      "name_ar" : "صفائح الألمنيوم الصوفية"
+    },
+    "-KOFVhM5xFDrbSk_80Th" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-grout-filler.jpg?alt=media&token=8db558ec-1528-421c-9cc6-9ddb95df7fa5",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Grout Filler",
+      "name_ar" : "شربت "
+    },
+    "-KOFVhM62ERjTcHp2WsH" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-fiber-glass.jpg?alt=media&token=582e22dc-b9e0-406a-8679-d5e28cefb48a",
+      "name" : "Fiber Glass",
+      "name_ar" : "فايبر جلاس "
+    },
+    "-KOFVhM62ERjTcHp2WsI" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-aluminium.jpg?alt=media&token=d5a7ae0c-ea01-4d6b-801c-c8adcb466ca9",
+      "location" : {
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Aluminium",
+      "name_ar" : "ألمنيوم"
+    },
+    "-KOFVhM62ERjTcHp2WsJ" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-spray-paint.jpg?alt=media&token=ffad21a0-d5c5-44ba-9941-758637a63e51",
+      "location" : {
+        "-KQUtlildxTBH7qH4q4i" : true
+      },
+      "name" : "Spray Paint",
+      "name_ar" : "صبغ رش"
+    },
+    "-KOFVhM62ERjTcHp2WsK" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-paint.jpg?alt=media&token=848601d3-b3b3-4478-b5c7-fc78ab0c3aee",
+      "location" : {
+        "-KZBVOIOpHguVoeX_NME" : true
+      },
+      "name" : "Paint ",
+      "name_ar" : "صبغ"
+    },
+    "-KOFVhM759AlAUaKjZt8" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-food-package.jpg?alt=media&token=cdb79c99-8827-43a3-b350-5ae126159715",
+      "location" : {
+        "-KOFVhJzZQR4K89JWAgj" : true
+      },
+      "name" : "Food Package",
+      "name_ar" : "أغلفة الطعام "
+    },
+    "-KOFVhM8w5ARZnGN56GH" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-packages.jpg?alt=media&token=0bf4d247-7e77-4120-8f35-6c543efb38d8",
+      "location" : {
+        "-KOFVhJzZQR4K89JWAgj" : true,
+        "-KOFVhKE3pPuvmr03kTW" : true
+      },
+      "name" : "Packages",
+      "name_ar" : "أغلفة "
+    },
+    "-KOFVhM9NQZu3kIfEk6X" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-acrylic-paint.jpg?alt=media&token=51046e70-e612-4b03-bf38-c36648fa21d2",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XA9" : true,
+        "-KOFVhKDwOIlWBYNyxE2" : true
+      },
+      "name" : "Acrylic Paint",
+      "name_ar" : "صبغ الأكريلك"
+    },
+    "-KOFVhM9NQZu3kIfEk6Y" : {
+      "description" : "Rubber sheets used to make stamps and block printing",
+      "description_ar" : "صفائح مطاط تستخدم لصنع الأختام و مكعبات الطباعة",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-rubber-sheets.jpg?alt=media&token=823e3172-1dde-42cf-9d53-71d196ec2ba9",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XA9" : true,
+        "-KUl9dymrR3n3nhAX4Yv" : true,
+        "-KUl9dzL_S7gddcgpKQ7" : true
+      },
+      "name" : "Lino Sheets",
+      "name_ar" : "صفائح اللاينو"
+    },
+    "-KOFVhMAthipS9MgLo18" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-candle-wick.jpg?alt=media&token=e9acb3bf-543e-4fd9-aa17-df66388f0050",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA4" : true,
+        "-KOFVhK5rb5xU_m9tN_y" : true,
+        "-KUWZFsrLLD1RVxrE6aU" : true
+      },
+      "name" : "Candle Wick",
+      "name_ar" : "خيط الشمعة"
+    },
+    "-KOFVhMAthipS9MgLo19" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-marble.jpg?alt=media&token=4daddc13-c0c0-4629-80ec-bdfb8a413c1e",
+      "location" : {
+        "-KUWZFtELTYwGW7YH71_" : true
+      },
+      "name" : "Marble",
+      "name_ar" : "رخام"
+    },
+    "-KOFVhMAthipS9MgLo1A" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-sponge.jpg?alt=media&token=020ac32c-32ea-4c8d-8091-6e991343e9b4",
+      "location" : {
+        "-KOFVhK86_0xVnVqZV2t" : true,
+        "-KOFVhKCJ3_ZQZEM3XI_" : true
+      },
+      "name" : "Sponge",
+      "name_ar" : "الاسفنج"
+    },
+    "-KOFVhMVWFbBZeLkUEdv" : {
+      "description" : "Spun thread used for knitting, weaving, or sewing.",
+      "description_ar" : "خيط يستخدم للحياكة و التطريز.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-yarn.jpg?alt=media&token=7fc3062f-957f-4a5e-ae1f-ee25aa486ec1",
+      "location" : {
+        "-KOFVhJk_i3r8yhVTFRE" : true,
+        "-KOFVhK5rb5xU_m9tN_y" : true,
+        "-KUWZFsrLLD1RVxrE6aU" : true,
+        "-KUkakGr5IeEjryUTzRM" : true,
+        "-KUkakH69qxemkpeK2_T" : true,
+        "-KUkakHSl6nUY-ebRg6J" : true
+      },
+      "name" : "Yarn",
+      "name_ar" : "خيط حياكة"
+    },
+    "-KOPy6AbcYGGZgPf7c4y" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-gold.jpg?alt=media&token=5fed7efc-f092-4503-9bf9-10da49f9b5cd",
+      "location" : {
+        "-KOFVhJi4bmQ_S7QBQp8" : true,
+        "-KZBVOIMc_IVMeMYiimN" : true,
+        "-KbAmHVDPv9FMHZKcjxp" : true
+      },
+      "name" : "Gold",
+      "name_ar" : "ذهب"
+    },
+    "-KOPy6Avo2l9QXiiiF5j" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-silver.jpg?alt=media&token=61e7e6b2-6a58-49d3-a84f-56a81ce34144",
+      "location" : {
+        "-KOFVhJi4bmQ_S7QBQp8" : true,
+        "-KZBVOIMc_IVMeMYiimN" : true,
+        "-KbAmHVDPv9FMHZKcjxp" : true
+      },
+      "name" : "Silver",
+      "name_ar" : "فضة"
+    },
+    "-KOPy6BGQlfkLfFQPvpA" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-copper.jpg?alt=media&token=b4eccfb1-6e57-45e2-9a9d-0572331906e4",
+      "location" : {
+        "-KOFVhJi4bmQ_S7QBQp8" : true,
+        "-KOFVhJy_S_yrVlP91Pq" : true,
+        "-KQUtli5-yiHMBAbMy1e" : true,
+        "-KQUtli6uiIQ5C3z7p3S" : true,
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Copper",
+      "name_ar" : "نحاس"
+    },
+    "-KQUyhWpa2h8GtBFEAIM" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-wood-varnish.jpg?alt=media&token=6e38bdfc-badf-430b-a912-61094fd8857c",
+      "location" : {
+        "-KOFVhKE3pPuvmr03kTW" : true
+      },
+      "name" : "Wood Varnish",
+      "name_ar" : "ورنيش الخشب"
+    },
+    "-KQVHzMEfG-Hh8TeVMH3" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-iron.jpg?alt=media&token=a9d875ea-6a81-46cd-92ab-6adb100a21e3",
+      "location" : {
+        "-KQUtlhobiHEU6LTNy42" : true,
+        "-KQUtli5-yiHMBAbMy1e" : true,
+        "-KQUtli6uiIQ5C3z7p3S" : true,
+        "-KUWZFsqqBw65UGIp5iR" : true,
+        "-KUWZFssvhQtAnJGxu2c" : true,
+        "-KUWZFt0p3VR3LlilWKd" : true,
+        "-KbAr5HFViN3FP6aNjw3" : true
+      },
+      "name" : "Iron",
+      "name_ar" : "حديد"
+    },
+    "-KUghN0Jy5t5lT3tVbIY" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-corian.jpg?alt=media&token=1af8f290-148d-4cf1-8330-185117d61afc",
+      "location" : {
+        "-KUWZFs_jBkqinOWnXH9" : true
+      },
+      "name" : "Corian",
+      "name_ar" : "الكوريان"
+    },
+    "-KUghN0gyWZNBAWAq-dy" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-oxygen.jpg?alt=media&token=7e9816e7-99fd-4ea0-b8d9-c5aa80bdf7bb",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Oxygen",
+      "name_ar" : "أكسجين"
+    },
+    "-KUghN0jh-uCaYQn2YRG" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-acetylene.jpg?alt=media&token=3c16d543-c64f-444d-8552-d4559f8d1ea1",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Acetylene",
+      "name_ar" : "الأستيلين"
+    },
+    "-KUghN0kZnHSed3oS5Pn" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-nitrogen.jpg?alt=media&token=e2f1f976-a763-4bf8-a5d4-8ac99daf8632",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Nitrogen",
+      "name_ar" : "نتروجين"
+    },
+    "-KUghN0kZnHSed3oS5Po" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-hydrogen.jpg?alt=media&token=4d3600c2-4df4-41b4-9876-1fdd7c3ddb67",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Hydrogen",
+      "name_ar" : "هيدروجين"
+    },
+    "-KUghN0ldjmDvSgOlXoH" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-helium.jpg?alt=media&token=17958ea5-55e8-4ddf-957d-c230b83b61cd",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Helium",
+      "name_ar" : "الهيليوم"
+    },
+    "-KUghN0mKmHLTINtR2ma" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-argon.jpg?alt=media&token=1de1e132-b946-4210-830c-d4ba751996b3",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Argon",
+      "name_ar" : "الأرجون"
+    },
+    "-KUghN0xkXRHNCiFBVbq" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-carbon-dioxide.jpg?alt=media&token=df376694-9158-4d66-bc89-f3264109cbaf",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Carbon dioxide",
+      "name_ar" : "ثاني أكسيد الكربون"
+    },
+    "-KUghN1-VEuzfBfrQJAp" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-steel.jpg?alt=media&token=10cd12e1-84ca-46a3-9c0e-e9293250582e",
+      "location" : {
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Steel",
+      "name_ar" : "فولاذ"
+    },
+    "-KUghN10QPvoQULwrTu9" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-stainless-steel.jpg?alt=media&token=c2bedfdd-8b76-46ac-a3db-2f96883a9a6c",
+      "location" : {
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Stainless Steel",
+      "name_ar" : "ستانلس ستيل"
+    },
+    "-KUghN14dHFNViaUTOga" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-bronze.jpg?alt=media&token=b1d31514-ee89-416f-82f1-df7387a83d59",
+      "location" : {
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Bronze",
+      "name_ar" : "برونز"
+    },
+    "-KUghN14dHFNViaUTOgb" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-brass.jpg?alt=media&token=081f0b5f-f180-4ff3-a21c-cd164abceff7",
+      "location" : {
+        "-KUWZFsqqBw65UGIp5iR" : true
+      },
+      "name" : "Brass",
+      "name_ar" : "نحاس أصفر"
+    },
+    "-KUghN1aAQSb2ETNr4g0" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-dry-ice.jpg?alt=media&token=53c6f1d5-4e7b-40fb-b26f-aa93759d068d",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Dry Ice",
+      "name_ar" : "ثلج جاف"
+    },
+    "-KbAn5sKBpoqdG0YBfxa" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/materials%2Fjpg_images%2Fmaterial-leather.jpg?alt=media&token=c4cb6130-d095-4542-a80e-27b56edb5fe8",
+      "location" : {
+        "-KbAmHUMLNKqtPA8S6CF" : true
+      },
+      "name" : "Leather",
+      "name_ar" : "جلد"
+    }
+  },
+  "Project" : {
+    "-KOFjgOiQEsTNgrDz6gS" : {
+      "description" : "You can design your own paint roll for your wall using a dremel or a laser cutter to carve wood or rubber sheets. Also you can use a 3D printer to print the paint roll.",
+      "description_ar" : "يمكن صناعة بكرة طلاء بتصميمك الخاص لحائط منزلك بأستخدام أداة درمل أو الليزر كتر للحفر على الخشب أو صفائح المطاط. ويمكنك طباعة بكرة الطلاء بطابعة ثلاثية الأبعاد.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-custom-paint-roll.jpg?alt=media&token=611a47da-225a-4f3a-b816-9eb5d882be53",
+      "materials" : {
+        "-KOFVhLmCHBVf-T0i7sj" : true,
+        "-KOFVhM9NQZu3kIfEk6Y" : true
+      },
+      "name" : "Custom Paint Roll",
+      "name_ar" : "بكرة طلاء بتصميم خاص",
+      "tools" : {
+        "-KOFVhKtFY5OXpUPfjvo" : true,
+        "-KOFVhL-yu_kduBIFToV" : true,
+        "-KOFVhLB0i6c2_hn3qkE" : true
+      }
+    },
+    "-KOFjgP5d-ut5FfveLJf" : {
+      "description" : "You can design your own stamp using a dremel or a laser cutter to carve wood or rubber sheets. Also you can use a 3D printer to print the stamp or shape a sponge using a blade.",
+      "description_ar" : "يمكن صناعة ختمك الخاص بأستخدام أداة درمل أو الليزر كتر للحفر على الخشب أو صفائح المطاط. ويمكنك طباعة ختمك بطابعة ثلاثية الأبعاد أو تشكيل الأسفنج بأستخدام مشرط.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-custom-stamp.jpg?alt=media&token=3a6ef4de-a511-4011-884a-607b128c12fd",
+      "materials" : {
+        "-KOFVhLmCHBVf-T0i7sj" : true,
+        "-KOFVhM9NQZu3kIfEk6Y" : true,
+        "-KOFVhMAthipS9MgLo1A" : true
+      },
+      "name" : "Custom Stamp",
+      "name_ar" : "ختم بتصميم خاص",
+      "tools" : {
+        "-KOFVhKtFY5OXpUPfjvo" : true,
+        "-KOFVhL-yu_kduBIFToV" : true,
+        "-KOFVhL7qpHxY0ItqH4D" : true,
+        "-KOFVhLB0i6c2_hn3qkE" : true
+      }
+    },
+    "-KOFjgP7UurYlA28xCzB" : {
+      "description" : "You can design your own book cover using a 3D printer or a laser cutter. Also you can block print and embroider on fabric.",
+      "description_ar" : "يمكنك صناعة غلاف خاص لكتابك بأستخدام طابعة ثلاثية الأبعاد أو ليزر كتر. ويمكنك التطريز والطباعة على القماش. ولتثبيت الغلاف يمكن أستخدام الصمغ.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-book-cover.jpg?alt=media&token=ff14b02e-6006-4da2-ae19-3286f9d90a75",
+      "materials" : {
+        "-KOFVhLmCHBVf-T0i7sj" : true,
+        "-KOFVhLrShueGHwGYQQ9" : true,
+        "-KOFVhLsiaNm869OHnZX" : true
+      },
+      "name" : "Book Cover",
+      "name_ar" : "غلاف كتاب",
+      "tools" : {
+        "-KOFVhL-yu_kduBIFToV" : true,
+        "-KOFVhL8mP0Tah6WS-cu" : true,
+        "-KOFVhLB0i6c2_hn3qkE" : true,
+        "-KOFVhLLRE5L1FrPSm65" : true
+      }
+    },
+    "-KOFjgPBKBN5HSy5TKhX" : {
+      "description" : "You can design your own candle by printing the design using a 3D printer or use any ready made object to make a silicon mold. Then pure the hot wax into the silicon mold.",
+      "description_ar" : "يمكنك صناعة شمعة بتصميمك الخاص عن طريق طباعة الشكل المطلوب بطابعة ثلاثية الأبعاد ومن ثم صناعة قالب من السيلكون من الشكل المطبوع وصب مادة الشمع فيه.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-custom-candle.jpg?alt=media&token=497b4465-e100-47c0-8002-f01c54bb9f98",
+      "materials" : {
+        "-KOFVhLq21rzrtmwZMgZ" : true,
+        "-KOFVhM1U_v4PmxZn51D" : true,
+        "-KOFVhMAthipS9MgLo18" : true
+      },
+      "name" : "Custom Candle",
+      "name_ar" : "شمعة بتصميم خاص",
+      "tools" : {
+        "-KOFVhL-yu_kduBIFToV" : true
+      }
+    },
+    "-KOFjgPD9Dx71OvESs4z" : {
+      "description" : "You can design your own jewelry by printing the design with PLA plastic using a 3D printer then head to the goldsmith to cast it for you.",
+      "description_ar" : "يمكن صناعة مجوهراتك الخاصة عن طريق طباعة الشكل المطلوب بطابعة ثلاثية الأبعاد بمادة بلاستيك PLA ثم التوجه إلى الصائغ ليصيغ لك مجوهراتك.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-custom-jewelry.jpg?alt=media&token=9aec8634-b52c-4f0b-b8a1-c286c974aafe",
+      "materials" : {
+        "-KOPy6AbcYGGZgPf7c4y" : true,
+        "-KOPy6Avo2l9QXiiiF5j" : true,
+        "-KOPy6BGQlfkLfFQPvpA" : true
+      },
+      "name" : "Custom Jewelry",
+      "name_ar" : "مجوهرات بتصميم خاص",
+      "tools" : {
+        "-KOFVhL-yu_kduBIFToV" : true,
+        "-KOFVhLFe1nMvxKLyuPK" : true
+      }
+    },
+    "-KOFjgPHE4d8yPaL6fTV" : {
+      "description" : "You can design a food mold by printing your design using a 3D printer then make a mold using food grade silicon.",
+      "description_ar" : "يمكنك صناعة قالب طعام عن طريق طباعة الشكل بطابعة ثلاثية الأبعاد ثم صناعة قالب من السيلكون من الشكل المطبوع.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-food-molds.jpg?alt=media&token=d84d18a1-1bb8-4e73-8d01-50cec33c166d",
+      "materials" : {
+        "-KOFVhLq21rzrtmwZMgZ" : true
+      },
+      "name" : "Food Molds",
+      "name_ar" : "قوالب الطعام",
+      "tools" : {
+        "-KOFVhL-yu_kduBIFToV" : true
+      }
+    },
+    "-KOFjgPJk-baJv0M8kwl" : {
+      "description" : "You can print your own design on fabric using silk screen printing or block printing.",
+      "description_ar" : "يمكنك طباعة تصميمك الخاص على القماش باستخدام طباعة الحريرية أو مربعات الطباعة.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/projects%2Fjpg_images%2Fproject-print-on-fabric.jpg?alt=media&token=0a024173-b522-44ac-a17d-8818e8f13503",
+      "materials" : {
+        "-KOFVhLsiaNm869OHnZX" : true
+      },
+      "name" : "Print on Fabric",
+      "name_ar" : "الطباعة على القماش",
+      "tools" : {
+        "-KOFVhLLRE5L1FrPSm65" : true,
+        "-KOFVhMUJ0ejn4uVZwoo" : true
+      }
+    }
+  },
+  "Tool" : {
+    "-KOFVhKGGVQ2gvVOLv4E" : {
+      "description" : "A device for smoothing and polishing a rough surface on relatively small parts.",
+      "description_ar" : "جهاز لتنعيم وتلميع سطح خشن على أجزاء صغيرة نسبيا.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-rock-tumbler.jpg?alt=media&token=e9d25000-3294-4c27-b098-3c120f2b7d03",
+      "name" : "Rock Tumbler",
+      "name_ar" : "روك تمبلر "
+    },
+    "-KOFVhKGGVQ2gvVOLv4F" : {
+      "description" : "A device sprays a coating through the air onto a surface.",
+      "description_ar" : " جهاز يقوم برش الطلاء على السطح بواسطة دفع الهواء. ويستخدم لطلاء المجسمات الصغيرة.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-air-brush.jpg?alt=media&token=2a5984c6-8faf-4f08-ab46-3ed52daf7b51",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XA9" : true,
+        "-KOFVhJmBBIZ8K9y9Kio" : true,
+        "-KOFVhKDwOIlWBYNyxE2" : true,
+        "-KUl9dymrR3n3nhAX4Yv" : true
+      },
+      "name" : "Air Brush",
+      "name_ar" : "فرشاة الهوائية"
+    },
+    "-KOFVhKmw6nB6Edj7HOE" : {
+      "description" : "A device sprays a coating through the air onto a surface.",
+      "description_ar" : " جهاز يقوم برش الطلاء على السطح بواسطة دفع الهواء.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-spray-gun.jpg?alt=media&token=c2da644f-86d6-494c-8a39-c88f7b1505cd",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Spray Gun",
+      "name_ar" : "مسدس طلاء "
+    },
+    "-KOFVhKoWiJYk6ilM4Ra" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-mechanical-saw.jpg?alt=media&token=bb09728d-4e11-46af-aaf0-d84ff44e28ea",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XAA" : true,
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Mechanical Saw",
+      "name_ar" : "منشار ميكانيكي"
+    },
+    "-KOFVhKpJFZOLRm6h41N" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-paint-roller.jpg?alt=media&token=7fdee8dc-2ea9-4af4-b767-cdda40fa65ca",
+      "location" : {
+        "-KOFVhJmBBIZ8K9y9Kio" : true
+      },
+      "name" : "Paint Roller",
+      "name_ar" : "بكرة طلاء"
+    },
+    "-KOFVhKtFY5OXpUPfjvn" : {
+      "description" : "Injection moulding is a manufacturing process for producing parts by injecting material into a mold.",
+      "description_ar" : "حقن القوالب وهي عملية تصنيع لإنتاج أجزاء عن طريق حقن مادة في قالب.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-injection-molding.jpg?alt=media&token=7df7e0b7-7c93-480c-8aae-562f773e5905",
+      "name" : "Injection Molding",
+      "name_ar" : "آلة حقن القوالب"
+    },
+    "-KOFVhKtFY5OXpUPfjvo" : {
+      "description" : "Multi purpose tool. Used for carving, engraving, sanding, cutting and polish.",
+      "description_ar" : "أداة متعددة الأستخدام. تستخدم للنحت والنقش والسنفرة والقص والبوليش ولها استخدامات اخره.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-dremel.jpg?alt=media&token=8fcc6d1a-a30a-494a-bb74-a9369d15ef15",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XAA" : true
+      },
+      "name" : "Dremel",
+      "name_ar" : "درمل"
+    },
+    "-KOFVhKvquWRhNnQ681G" : {
+      "description" : "Electronic components like wires, transistor, resistor, LED light, capacitor, transformer.",
+      "description_ar" : "مكونات كهربائية مثل الأسلاك، الترانزستور، المقاوم، LED Light ، مكثف، محول.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-electronic-components.jpg?alt=media&token=e3a53b5c-79bf-4f39-9899-10712ed50104",
+      "location" : {
+        "-KOFVhK0Euf4fMhCf-cR" : true,
+        "-KOFVhK0Euf4fMhCf-cS" : true,
+        "-KUWZFtGqh9ovP9kqDnl" : true
+      },
+      "name" : "Electronic Components",
+      "name_ar" : "مكونات الكترونية"
+    },
+    "-KOFVhKzf5NQSKdhcR6_" : {
+      "description" : "Electronic boards like Raspberry pi, Arduino.",
+      "description_ar" : "ألواح إلكترونية مثل راسبيري باي و اردوينو",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-electronic-boards.jpg?alt=media&token=80c9849a-47cb-48e1-a4f7-fa251474d5c3",
+      "location" : {
+        "-KOFVhK0Euf4fMhCf-cR" : true,
+        "-KOFVhK0Euf4fMhCf-cS" : true,
+        "-KUWZFtGqh9ovP9kqDnl" : true
+      },
+      "name" : "Electronic Boards",
+      "name_ar" : "ألواح إلكترونية "
+    },
+    "-KOFVhL-yu_kduBIFToU" : {
+      "description" : " ",
+      "description_ar" : " ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-heat-gun.jpg?alt=media&token=218e55ba-4da6-4357-9a6e-1c4c9c0051cb",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XAA" : true
+      },
+      "name" : "Heat Gun",
+      "name_ar" : "مسدس حراري"
+    },
+    "-KOFVhL-yu_kduBIFToV" : {
+      "description" : "This device can build any shape you want from a 3D model.",
+      "description_ar" : "هذا الجهاز يبني لك أي تصميم ثلاثي أبعاد إلى مجسم.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-3d-printer.jpg?alt=media&token=385a5bdb-230d-4dbf-9508-a58d0db3e816",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA5" : true,
+        "-KOFVhJt9P5i4v2evx2N" : true,
+        "-KOFVhJuPg5GXLWj5Ef5" : true,
+        "-KZBVOIu5hIGzxYHt8JY" : true,
+        "-LN1VCZgY4LyrNrGbodv" : true
+      },
+      "name" : "3D Printer",
+      "name_ar" : "الطابعة ثلاثية الأبعاد"
+    },
+    "-KOFVhL50uIsuoGzF97V" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-bearings.jpg?alt=media&token=dfcd30ff-fcbf-4ab4-978d-eb474c91a3e2",
+      "location" : {
+        "-KOFVhK28WAmGR2FP4re" : true
+      },
+      "name" : "Bearings",
+      "name_ar" : "بيرنجات"
+    },
+    "-KOFVhL7qpHxY0ItqH4D" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-cnc.jpg?alt=media&token=b33a9401-065a-41ba-bd44-494524f94266",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA5" : true
+      },
+      "name" : "CNC",
+      "name_ar" : "سي أن سي"
+    },
+    "-KOFVhL8mP0Tah6WS-cu" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-embroidery.jpg?alt=media&token=0cd79c1a-2d10-4cda-b150-744bae70953b",
+      "location" : {
+        "-KOFVhJk_i3r8yhVTFRE" : true
+      },
+      "name" : "Embroidery",
+      "name_ar" : "التطريز"
+    },
+    "-KOFVhLB0i6c2_hn3qkE" : {
+      "description" : "This device can cut/engrave sheets of plastic or wood.",
+      "description_ar" : "هذا الجهاز يقطع و يحفر شراىح البلاستك أو الخشب.",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-laser-cutter.jpg?alt=media&token=9ed4cefa-bc2a-4a64-9d26-a801634e72bd",
+      "location" : {
+        "-KOFVhJgCj2ydrXEGhA5" : true,
+        "-KOFVhJqH-bDdMiCOkFN" : true,
+        "-KOFVhJt9P5i4v2evx2M" : true
+      },
+      "name" : "Laser Cutter",
+      "name_ar" : "ليزر كتر"
+    },
+    "-KOFVhLEx7fsTV9P2F3e" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-lathe.jpg?alt=media&token=7b13d742-c498-4c01-9d03-adf6837f25bb",
+      "location" : {
+        "-KUWZFtAFXkWjeV79Q3A" : true,
+        "-KUWZFtBBgdtNCK5OmFv" : true
+      },
+      "name" : "Lathe",
+      "name_ar" : "مخرطة"
+    },
+    "-KOFVhLFe1nMvxKLyuPK" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-lost-casting.jpg?alt=media&token=c90db13a-b7b3-4201-ae34-34a49a008c58",
+      "location" : {
+        "-KOFVhJi4bmQ_S7QBQp8" : true,
+        "-KZBVOIMc_IVMeMYiimN" : true,
+        "-KbAmHVDPv9FMHZKcjxp" : true
+      },
+      "name" : "Lost Wax Casting",
+      "name_ar" : "الصب عن طريق تلاشي الشمع"
+    },
+    "-KOFVhLLRE5L1FrPSm65" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-block-printing.jpg?alt=media&token=0c4af692-2f69-4f87-8f8c-262dba9b2c59",
+      "location" : {
+        "-KOFVhK4Qry7EG_xQNm7" : true
+      },
+      "name" : "Printing Blocks",
+      "name_ar" : "مربعات الطباعة"
+    },
+    "-KOFVhLNgC6py9F0CVXF" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-sand-casting.jpg?alt=media&token=ab584a19-f723-46b9-a04b-8fe91c29891f",
+      "location" : {
+        "-KOFVhJy_S_yrVlP91Pq" : true
+      },
+      "name" : "Sand Casting",
+      "name_ar" : "الصب عن طريق قوالب التراب"
+    },
+    "-KOFVhLPRj1FendWmw6q" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-screws.jpg?alt=media&token=c51fa189-d399-4d0c-9567-c1d71668fc27",
+      "location" : {
+        "-KOFVhK28WAmGR2FP4rd" : true,
+        "-KUWZFtDqOK9pSkslYIg" : true
+      },
+      "name" : "Screws & Bolts",
+      "name_ar" : "براغي"
+    },
+    "-KOFVhMUJ0ejn4uVZwoo" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-screen-printing.jpg?alt=media&token=1780c448-a94d-43c1-8c60-ac62685ee6b5",
+      "location" : {
+        "-KOFVhK4Qry7EG_xQNm7" : true
+      },
+      "name" : "Silk Screen Printer",
+      "name_ar" : "طابعة الشاشة الحريرية"
+    },
+    "-KUkPnz8Ttd6p8l95oH2" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-welding-tools.jpg?alt=media&token=daecaf6c-3765-4a76-aa4b-da5b49cb3f39",
+      "name" : "Welding Tools",
+      "name_ar" : "أدوات لحام"
+    },
+    "-KUkPnzO07gDHY1hiiT2" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-torch.jpg?alt=media&token=da2ea21c-934b-495f-80c8-5c1ce38cb51a",
+      "location" : {
+        "-KUWZFt74pnGqy75WOXc" : true,
+        "-KUWZFtHQ9kJFcL4aHXc" : true
+      },
+      "name" : "Welding & Cutting Torch",
+      "name_ar" : "شعلة اللحام والقطع"
+    },
+    "-KUkPnzYAqj6rJy4wOKa" : {
+      "description" : "A device used to measure the distance between two opposite sides of an object",
+      "description_ar" : "أداة قياس تستخدم لقياس المسافة بين جانبين متقابلين من الشئ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-caliper.jpg?alt=media&token=9a55841a-abbc-4406-b406-729fdd824730",
+      "name" : "Caliper",
+      "name_ar" : "القدمة ذات الورنيه"
+    },
+    "-KUkPnzsb9p9pQUzh2Zm" : {
+      "description" : "A device used to measure the distance between two opposite sides of an object",
+      "description_ar" : "أداة قياس تستخدم لقياس المسافة بين جانبين متقابلين من الشئ",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-micrometer.jpg?alt=media&token=8ca239e0-4d93-436a-85f3-281663d71e80",
+      "name" : "Micrometer",
+      "name_ar" : "الميكروميتر"
+    },
+    "-KZBdYjrGAyXvykSAihw" : {
+      "description" : "",
+      "description_ar" : "",
+      "img" : "https://firebasestorage.googleapis.com/v0/b/the-makers-directory.appspot.com/o/tools%2Fjpg_images%2Ftool-calligraphy-tools.jpg?alt=media&token=33efb927-ef46-4cfb-8632-70a569b8d412",
+      "location" : {
+        "-KOFVhJlCgwcqecf3XA9" : true,
+        "-KZBVOHzVuD8GtLDWeH2" : true
+      },
+      "name" : "Calligraphy Tools",
+      "name_ar" : "أدوات الخط"
+    }
+  }
+}
